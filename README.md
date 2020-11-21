@@ -1,3 +1,1 @@
-echo # KattisPython
-echo # KattisPython
-# KattisPython
+My kattis solutions https://open.kattis.com/ using Python
