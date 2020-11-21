@@ -1,1 +1,1 @@
-My kattis solutions https://open.kattis.com/ using Python
+My solutions https://open.kattis.com/ using Python
